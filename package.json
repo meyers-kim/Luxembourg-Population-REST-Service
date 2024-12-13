@@ -1,0 +1,15 @@
+{
+  "name": "luxembourg-population-service",
+  "version": "1.0.0",
+  "description": "A REST API for Luxembourg population data by year",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  },
+  "author": "Meyers Kim",
+  "license": "ISC"
+}
